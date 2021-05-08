@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!--Boostrap CSS-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
+
+    <!--Additional CSS must be placed after Bootstrap CSS-->
+    <link rel="stylesheet" href= "https://fonts.googleapis.com/css?family=Lobster|Open+Sans" />
+    <link rel="stylesheet" href="css/styles.css" />
+
+    <title>LaToya's Profile</title>
+</head>
+
+<body>
+
+    <header class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h1>LaToya Fowler</h1>
+                    <h2>Real Boss Moves</h2>
+                    <h5>"Be yourself, everyone else is already taken."</h5>
+                    <h6>Oscar Wilde</h6>
+                </div>
+            </div> 
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+               <h2>About Me</h2>
+                    <p>My Name is LaToya Fowler. I am a military-brat.  I was born in Charleston, SC but did not live there until my last year and a half of high school.  We did three tours in Germany.  Lived in North Carolina and Georgia.  I am the oldest and it comes with its own perks at times.  I like to travel, read both comics and books.  I love the beach, roller coasters and doing SegWay Tours whenever possible.  I am a huge Batman/ DC fan.  I seek out all things related to Batman, The Joker and Harley Quinn; all though of late the Swamp Thing has peaked my interests.
+                    <p>I currently work in Logistics as an Export Agent.  I have worked in Logistics for the past 5 years in various aspects.  I have done imports, Exports, Warehousing, 3rd Party, and Automotive. Prior to that I spent 13 years in the Medical field as a traveling Lasik surgery technician and later as an EDI Analyst.  Many of the skillsets I learned in both careers I feel will suit me well as a FullStack developer.</p>  
+                    <p>Fullstack requires you analyze exsisting programs, eliminate problems and create change or increase efficiency.  Both Logistics and the Medical field require that kind of thinking/ thought process.  You have to be open to learning new things, learning on the fly and implementing.  Sometimes you fail forward and you learn that ok maybe the whole process you just created did not work but other parts were successful.  You figure out why, take what you need and chart a new path forward.</p>  
+                    <p>Full Stack developers have to seek out training opportunites to develope their craft.  You have to do exactly the same in Logistics and Medical or fall behind and become less marketable.  In addition to that by not seeking out additional knowledge you hurt the customer and yourself.  When in the Medical field I sought out additional certifications on the latest lasers and  newest techniques for sterilization and patient care.  I would often pay for myself to go if the the opportunities were not company sponsered.  In Logistics most account reps only have 1 or 2 HAZMAT certifications.  I sought out 5 and it turns out that was a good thing as I would later be offered accounts that required those certifications.  Even now I still look to advance my own knowledge and make myself more marketable.  I have a Six Sigma White Belt, Six Sigma Green Belt, Project Management Essential Certification (PMEC), and I am Project Management -Lean Process Certified. 
+                    <p>Full Stack developers are required to ensure security, confidentiality and privacy of information.  The tie-in here with Logistics and Medical is exactly the same.  You are privy to a large amount of propietary and personal information and you must protect it.</p>
+               <hr />
+            </div>
+        </div>
+        
+        <div class="row row-content">
+            <div class="col-12 col-sm-6">
+                
+                <h3>My Mission</h3>
+                <p>My mission is to show others like myself that it is never to late in life to go after your passion.  I love building people up and helping to see their dreams become reality.  My mission is to inspire self-confidence in others by walking the walk for real or as my mom always says <em> "Don't just talk about it.  Be about it!"</em></p>
+            </div>
+        </div>
+
+        <div class="row row-content">
+            <div class="col-12">
+                <h3>Real Boss Moves</h3>
+                <h4>What's That About? <small>Why Real?</small></h4>
+                <p class="d-none d-sm-block" >This is something else that I am passionate about.  I am going after my interests in coding and working on using the skills I have learned to help market myself. Real Boss Moves was initially just for me.  I wanted something that sounded strong.  It needed to be something that did not sound far fetched. It needed to be possible or achievable.</p>
+                <h4>The B.O.S.S. Blog   <small>This stands for Be Optimistic, Strong, Self-Confident.  That is what I think of when I think of a BOSS.</small></h4>
+                <p class="d-none d-sm-block">When I say <em>BOSS</em> I don't mean like someone's boss on the job. No, that is asking to much.  No, I need people to work on being their own version of a super hero to themsselves.  I need them to 'Boss Up' in their own lives.  I need them to show up and show out in every aspect of their lives and revel in what makes them them.  I want to write about my journey, what inspires me and hopefully help others in the same situation to be encouraged to take charge of their own lives either a bit a time or the whole shebang. </p>
+                <h4>What about the Moves? <small>The moves are all on the individual.  If you don't take steps to change your life who will do it for you?</small></h4>
+                <p class="d-none d-sm-block">I needed the name to have momentum, and it needed to be doable in the <em>"now"</em>  if you parden the phrase.  Here I plan to focus on ways to move, my own health journey, and what others are doing to make their lives better.  What do they do to 'Boss Up' daily?</p>
+                <h4>Real Boss Moves <small>Apparel</small></h4>
+                <p class="d-none d-sm-block">Currently just tees, but more is on the way.</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-4 col-sm-2 offset-1">
+                    <h5>Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Sites</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="col-6 col-sm-5 text-center">
+                    <h5>Social</h5>
+                    <a href="http://instagram.com/">Instagram</a>
+                    <a href="http://facebook.com/">Facebook</a>
+                    <a href="http://twitter.com/">Twitter</a>
+                    <a href="http://youtube.com/">YouTube</a>
+                </div>
+                <div class="col-sm-4 text-center">
+                    Tel: 1-843-480-0046<br />
+                    Email: latoyafowler@realbossmoves.com
+                </div>
+           </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
